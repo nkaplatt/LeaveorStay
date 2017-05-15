@@ -1,0 +1,23 @@
+User-agent: *
+
+Sitemap: http://www.leaveorstay.co.uk/sitemap.xml
+
+Disallow: /js
+Disallow: /css
+Disallow: /images
+Disallow: /graphs
+Disallow: /PHPMailer
+Disallow: /signup.php
+Disallow: /anonymous.php
+Disallow: /createnewpassword.php
+Disallow: /functions.php
+Disallow: /newfu4.php
+Disallow: /socialShare.php
+Disallow: /sendresetlink.php
+Disallow: /topic-blank-page-copy.php
+Disallow: /verifiedemail.php
+Disallow: /writeresetpassmail.php
+Disallow: /writeverificationemail.php
+Disallow: /redirect.php
+Disallow: /passwordhash.php
+Disallow: /header.php
